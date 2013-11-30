@@ -1,0 +1,17 @@
+<testData>
+	<loc>
+		yellowPages/wa/town.xml.gz
+	</loc>
+	<loc>
+		yellowPages/wa/east/mountain.xml.gz
+	</loc>
+	<loc>
+		yellowPages/nt/north/town.xml.gz
+	</loc>
+	<loc>
+		yellowPages/map/sitemap.xml.gz
+	</loc>
+	<loc>
+		yellowPages/website/site.html
+	</loc>
+</testData>
